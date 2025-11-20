@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi! I’m Ali, a full-stack developer in training with strong interest in building modern web applications.
- I’m interested in Machine Learning and Software Engineering
-🌱 I’m currently learning latest machine learning approaches and looking to build my own product
-💞️ I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TF and PyTorch ).
+# I’m interested in Machine Learning and Software Engineering
+# 🌱 I’m currently learning latest machine learning approaches and looking to build my own product
+# 💞️ I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TF and PyTorch ).
 
 
 
