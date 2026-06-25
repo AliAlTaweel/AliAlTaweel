@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Ali, a full-stack developer in training with strong interest in building modern web applications.
+Production AI Engineer | Full-Stack | Built Luxe, a B2B SaaS AI platform. TypeScript, Python, AWS, LLMs in production
 * I’m interested in Machine Learning and Software Engineering
 
 
